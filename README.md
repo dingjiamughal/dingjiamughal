@@ -1,4 +1,4 @@
-👋 Hi，我是 `dingjia` ，一个`切图仔`，会一些`node`和`devops`
+👋 Hi，我是 `dingjia` ，一个 `切图仔`，了解一些 `node` 和 `devops`
 
 <table>
 <tr>
@@ -8,8 +8,8 @@
 
 <!-- overview starts -->
 -   🔭 正在努力工作
--   🤔 喜欢调研工程类和 devops
--   📫 看机会中，base上海~ 我滴vx: `dingjia2042`
+-   🤔 恶补工程能力中...
+-   📫 看机会中，base~上海 vx: `dingjia2042`
 -   💬 看看我的 [juejin](https://juejin.cn/user/993614241205592/posts)、[packages](https://www.npmjs.com/settings/djmughal/packages)
 <!-- overview ends -->
 
