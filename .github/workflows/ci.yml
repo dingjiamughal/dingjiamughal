@@ -1,0 +1,39 @@
+# github action 调研 demo
+name: ci
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/**'
+      - '__test__/**'
+      - 'src/**'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # checkout
+      - uses: actions/checkout@v2
+      # 使用 nodejs
+      - name: Use Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: 14
+      # 生成 README.md
+      - name: Generate README.md
+        run: |
+          npm ci
+          npm run build
+          npm run gen
+      # git push
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "465560882@qq.com"
+          git config --local user.name "dingjaimughal"
+          git diff
+          git add .
+          git commit -m "GitHub Action Schedule Job" || exit 0
+          git push

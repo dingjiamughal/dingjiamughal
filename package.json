@@ -1,0 +1,24 @@
+{
+  "name": "dingjiamughal",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dingjiamughal/dingjiamughal.git",
+  "author": "dingjia <465560882@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "ts-node src/main.ts",
+    "build": "tsc",
+    "gen": "node dist/main.js"
+  },
+  "devDependencies": {
+    "@types/date-and-time": "^0.13.0",
+    "@types/node": "^15.12.4",
+    "prettier": "^2.3.1",
+    "ts-node": "^10.0.0",
+    "typescript": "^4.3.4"
+  },
+  "dependencies": {
+    "date-and-time": "^1.0.1",
+    "mini-tpl": "^1.1.1"
+  }
+}
