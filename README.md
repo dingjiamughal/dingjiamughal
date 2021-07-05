@@ -1,6 +1,5 @@
-👋 Hi，我是 `dingjia` ，一个 `切图仔`，了解一些 `node` 和 `devops` <br>
-以下内容通过 [GitHub Action](https://github.com/dingjiamughal/dingjiamughal/actions) 自动更新：<br>
-最近更新时间：🇺🇸 时间 2021-07-05 00:39:16
+👋 Hi，我是 `dingjia` ，一个 `切图仔`，了解一些 `node` 和 `devops`，以下内容通过 [GitHub Action](https://github.com/dingjiamughal/dingjiamughal/actions) 自动更新：<br>
+最近更新时间：🇺🇸 时间 2021-07-05 15:49:58
 
 <table>
 <tr>
