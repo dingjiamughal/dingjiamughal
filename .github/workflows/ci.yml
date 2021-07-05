@@ -12,6 +12,7 @@ on:
       - "__test__/**"
       - "src/**"
       - "*.tpl"
+
 jobs:
   build:
     runs-on: ubuntu-latest
