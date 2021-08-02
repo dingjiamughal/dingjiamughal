@@ -1,5 +1,5 @@
 👋 Hi，我是 `dingjia` ，一个 `切图仔`，了解一些 `node` 和 `devops`，以下内容通过 [GitHub Action](https://github.com/dingjiamughal/dingjiamughal/actions) 自动更新：<br>
-最近更新时间：🇺🇸 时间 2021-08-02 00:43:16
+最近更新时间：🇺🇸 时间 2021-08-02 01:47:14
 
 <table>
 <tr>
@@ -24,10 +24,10 @@
 
 <!-- blog starts -->
 
--   去一趟三亚 
--   系统学习一下 docker 和 react 生态圈源码 
--   完善 [cx-heading](https://www.npmjs.com/settings/cx-heading/packages) 
--   刷算法！ 
+   去一趟三亚 
+   系统学习一下 docker 和 react 生态圈源码 
+   完善 [cx-heading](https://www.npmjs.com/settings/cx-heading/packages) 
+   刷算法！ 
 <!-- blog ends -->
 
 <img width="500" height="1">
