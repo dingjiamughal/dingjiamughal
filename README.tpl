@@ -21,7 +21,7 @@
 
 <!-- blog starts -->
 <% for (var i = 0; i < data.todos.length; i++) { %>
--   <%= data.todos[i] %> <% } %>
+   <%= data.todos[i] %> <% } %>
 <!-- blog ends -->
 
 <img width="500" height="1">
